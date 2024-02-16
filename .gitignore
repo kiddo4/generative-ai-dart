@@ -1,10 +1,13 @@
 .DS_Store
 .atom/
 .idea/
-.vscode/*
 
 # Dart project
 **/doc/api/
 .dart_tool/
 build/
 pubspec.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
